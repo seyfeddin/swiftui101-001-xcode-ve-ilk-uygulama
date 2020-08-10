@@ -13,6 +13,7 @@
 		CD0E4AF924DDECFF00076146 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0E4AF824DDECFF00076146 /* Preview Assets.xcassets */; };
 		CD0E4B0424DDECFF00076146 /* MyFirstSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0E4B0324DDECFF00076146 /* MyFirstSwiftUITests.swift */; };
 		CD0E4B0F24DDECFF00076146 /* MyFirstSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0E4B0E24DDECFF00076146 /* MyFirstSwiftUIUITests.swift */; };
+		CDEF9F3F24E093EF0076918E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDEF9F3E24E093EF0076918E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		CD0E4B0A24DDECFF00076146 /* MyFirstSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD0E4B0E24DDECFF00076146 /* MyFirstSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstSwiftUIUITests.swift; sourceTree = "<group>"; };
 		CD0E4B1024DDECFF00076146 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDEF9F3E24E093EF0076918E /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				CD0E4AF124DDECFE00076146 /* MyFirstSwiftUIApp.swift */,
 				CD0E4AF324DDECFE00076146 /* ContentView.swift */,
 				CD0E4AF524DDECFF00076146 /* Assets.xcassets */,
+				CDEF9F3E24E093EF0076918E /* LaunchScreen.storyboard */,
 				CD0E4AFA24DDECFF00076146 /* Info.plist */,
 				CD0E4AF724DDECFF00076146 /* Preview Content */,
 			);
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDEF9F3F24E093EF0076918E /* LaunchScreen.storyboard in Resources */,
 				CD0E4AF924DDECFF00076146 /* Preview Assets.xcassets in Resources */,
 				CD0E4AF624DDECFF00076146 /* Assets.xcassets in Resources */,
 			);
